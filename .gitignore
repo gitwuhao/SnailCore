@@ -44,8 +44,7 @@ buck-out/
 
 .svn
 
-ios/
-android/
+
 
 # fastlane
 #
