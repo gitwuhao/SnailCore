@@ -10,7 +10,7 @@
 
 ## 架构图
 
-![架构图](http://172.17.210.65:8901/images/upload_3a59ee5b37d50886157e6b334d9b2b3d.png)
+![架构图](https://github.com/gitwuhao/SnailCore/blob/master/20170327121201.png)
 
 ### 概念说明
 `snail app` 包含：
